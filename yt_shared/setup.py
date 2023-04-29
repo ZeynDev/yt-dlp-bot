@@ -2,8 +2,8 @@ from setuptools import find_packages, setup
 
 # metadata
 VERSION = (0, 0, 1)
-__author__ = 'tropicoo'
-__email__ = 'good@example.com'
+__author__ = 'Zeyn'
+__email__ = 'zeynmoryen@gmail.com'
 __version__ = '.'.join(map(str, VERSION))
 
 setup_requirements = []
